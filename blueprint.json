@@ -9,7 +9,7 @@
   "steps": [
     {
       "step": "importWordPressFiles",
-      "wordpressFilesZip": {
+      "wordPressFilesZip": {
         "resource": "url",
         "url": "https://worldreachplugin.com/pro-playground/site.zip"
       }
